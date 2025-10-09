@@ -143,7 +143,7 @@
   --ifm-color-search-radar-border: lightgray;
   --ifm-color-search-radar-border-hover: #3c6ead;
 
-  --ifm-image-portal: url("/img/logo.svg");
+  --ifm-image-portal: url("/img/logo.png");
 }
 
 /* Dark Theme - Enhanced with CNOE Color System */
@@ -221,7 +221,7 @@
   --ifm-color-search-radar-border: lightgray;
   --ifm-color-search-radar-border-hover: #3c6ead;
 
-  --ifm-image-portal: url("/img/logo.svg");
+  --ifm-image-portal: url("/img/logo.png");
 }
 
 /* Base Animation Utilities */
@@ -463,7 +463,7 @@
 
 
 html[data-theme="dark"] .navbar .navbar__logo {
-  content: url(/img/logo.svg);
+  content: url(/img/logo.png);
 }
 
 .sliderStyle {

@@ -34,7 +34,7 @@ function HomepageHeader() {
           {/* Logo Section with Float Animation */}
           <div className={clsx(styles.logoSection, isVisible && 'cnoe-animate-fade-in')}>
             <img
-              src="/img/logo.svg"
+              src="/img/logo.png"
               alt="Course Logo"
               className={clsx(styles.heroLogo, 'cnoe-animate-float')}
             />
